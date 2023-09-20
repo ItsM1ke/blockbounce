@@ -1,2 +1,1 @@
-# blockbounce
-A simple 2D game that allows myself to "log" everything I learn in college. 
+👋Hello, this repisitory was created in order to allow myself to work on something with the skills I am learning in college. 
